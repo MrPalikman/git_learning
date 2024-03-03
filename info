@@ -16,3 +16,7 @@ git log
 7. Переключение на ветку
 git checkout branch_name
 git checkout -b branch_name (создать ветку, если ее нету)
+8. Обновляет код с удаленного репозитория
+git pull
+9. Временное хранилище для полезного кода
+git stash
