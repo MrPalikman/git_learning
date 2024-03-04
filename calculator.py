@@ -1,4 +1,6 @@
 
+
+# Это наш калькулятор
 class Calculator:
     last_rez = None
 
