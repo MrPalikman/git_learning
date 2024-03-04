@@ -6,6 +6,11 @@ class Calculator:
         self.last_rez = n1 +n2
         return n1 + n2
 
+    def min(self, n1, n2):
+        self.last_rez = n1 - n2
+        return n1 - n2
+
+
     def myltiply(self, n1, n2):
         self.last_rez = n1 * n2
         return self.last_rez
