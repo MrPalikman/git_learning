@@ -3,6 +3,7 @@ import traceback
 
 
 # Это наш калькулятор
+# Это наш калькулятор
 class Calculator:
     last_rez = None
 
