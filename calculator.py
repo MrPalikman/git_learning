@@ -5,6 +5,7 @@ import traceback
 # Это наш калькулятор
 # Это наш калькулятор
 # Это наш калькулятор
+# TEST 1
 class Calculator:
     last_rez = None
 
